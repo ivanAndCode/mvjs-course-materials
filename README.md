@@ -9,6 +9,8 @@ Important parts are:
 ## Running the tests
 - `npm install` to install the dependencies
 - `npm run test` to run all tests
+  
+!(test results)[<images/test-results.png?raw=true>]
 
 ## Playground
 `playground.js`  
