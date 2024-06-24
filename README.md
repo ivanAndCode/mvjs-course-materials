@@ -10,11 +10,11 @@ Important parts are:
 - `npm install` to install the dependencies
 - `npm run test` to run all tests
   
-!(test results)[<images/test-results.png?raw=true>]
+![test results](./images/test-results.png)
 
 ## Playground
 `playground.js`  
-This file and the matching test have been created to help you train. Think of them as scaffolding. A playground. Place to mess around and play!
+This file and the matching test have been created to help you train. Think of them as scaffolding. A playground. A place to mess around and play!
 
-| Note: test has been setup to fail  intentionally! Fix it!  
+| Note: The test has been setup to fail intentionally! Fix it!  
 When you are solving other challenges, you could do it with the help of this file (or create a separate one + the test)
