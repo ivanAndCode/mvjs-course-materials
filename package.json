@@ -1,0 +1,17 @@
+{
+  "name": "Minimum Viable JavaScript",
+  "version": "1.0.0",
+  "description": "Code and supporting materials for the people who are taking the course",
+  "type": "module",
+  "main": "hello.js",
+  "scripts": {
+    "test": "mocha",
+    "hello": "node hello.js"
+  },
+  "author": "IvanAndCode",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "=10.4.0"
+  }
+}
